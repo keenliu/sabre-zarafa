@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception
+END
+UnsupportedMediaType.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/UnsupportedMediaType.php
+END
+FileNotFound.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/FileNotFound.php
+END
+Forbidden.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/Forbidden.php
+END
+NotFound.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/NotFound.php
+END
+BadRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/BadRequest.php
+END
+InvalidResourceType.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/InvalidResourceType.php
+END
+Locked.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/Locked.php
+END
+Conflict.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/Conflict.php
+END
+PreconditionFailed.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/PreconditionFailed.php
+END
+NotAuthenticated.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/NotAuthenticated.php
+END
+RequestedRangeNotSatisfiable.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/RequestedRangeNotSatisfiable.php
+END
+ConflictingLock.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/ConflictingLock.php
+END
+MethodNotAllowed.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/MethodNotAllowed.php
+END
+InsufficientStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/InsufficientStorage.php
+END
+PaymentRequired.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/PaymentRequired.php
+END
+ReportNotImplemented.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/ReportNotImplemented.php
+END
+NotImplemented.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/NotImplemented.php
+END
+LockTokenMatchesRequestUri.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception/LockTokenMatchesRequestUri.php
+END

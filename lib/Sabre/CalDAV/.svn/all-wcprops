@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV
+END
+Calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Calendar.php
+END
+ICalendarObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/ICalendarObject.php
+END
+UserCalendars.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/UserCalendars.php
+END
+CalendarQueryParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/CalendarQueryParser.php
+END
+Plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Plugin.php
+END
+ICSExportPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/ICSExportPlugin.php
+END
+CalendarObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/CalendarObject.php
+END
+ICalendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/ICalendar.php
+END
+CalendarRootNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/CalendarRootNode.php
+END
+CalendarQueryValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/CalendarQueryValidator.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Version.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Server.php
+END
+includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/includes.php
+END

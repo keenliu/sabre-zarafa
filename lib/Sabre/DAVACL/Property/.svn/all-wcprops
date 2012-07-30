@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Property
+END
+Acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Property/Acl.php
+END
+Principal.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Property/Principal.php
+END
+CurrentUserPrivilegeSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Property/CurrentUserPrivilegeSet.php
+END
+SupportedPrivilegeSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Property/SupportedPrivilegeSet.php
+END
+AclRestrictions.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Property/AclRestrictions.php
+END

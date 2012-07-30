@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/31/trunk/lib/log4php
+END
+LoggerThrowableInformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerThrowableInformation.php
+END
+LoggerException.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerException.php
+END
+LoggerAppender.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerAppender.php
+END
+LoggerConfigurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerConfigurable.php
+END
+LoggerConfigurator.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerConfigurator.php
+END
+LoggerMDC.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerMDC.php
+END
+LoggerNDC.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerNDC.php
+END
+LoggerLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerLevel.php
+END
+LoggerReflectionUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerReflectionUtils.php
+END
+LoggerLayout.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerLayout.php
+END
+LoggerHierarchy.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerHierarchy.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/lib/log4php/Logger.php
+END
+LoggerRoot.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerRoot.php
+END
+LoggerLocationInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerLocationInfo.php
+END
+LoggerFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerFilter.php
+END
+LoggerLoggingEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerLoggingEvent.php
+END
+LoggerAppenderPool.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31/trunk/lib/log4php/LoggerAppenderPool.php
+END

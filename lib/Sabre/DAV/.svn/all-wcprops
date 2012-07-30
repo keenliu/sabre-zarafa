@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV
+END
+SimpleFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/SimpleFile.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Collection.php
+END
+XMLUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/XMLUtil.php
+END
+INode.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/INode.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Exception.php
+END
+Tree.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Tree.php
+END
+URLUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/URLUtil.php
+END
+IQuota.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/IQuota.php
+END
+UUIDUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/UUIDUtil.php
+END
+Directory.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/lib/Sabre/DAV/Directory.php
+END
+StringUtil.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/StringUtil.php
+END
+ICollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/ICollection.php
+END
+IProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/IProperties.php
+END
+SimpleCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/SimpleCollection.php
+END
+includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/includes.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Server.php
+END
+TemporaryFileFilterPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/TemporaryFileFilterPlugin.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Client.php
+END
+SimpleDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/SimpleDirectory.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/File.php
+END
+Property.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property.php
+END
+IExtendedCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/IExtendedCollection.php
+END
+ServerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/ServerPlugin.php
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Node.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Version.php
+END
+ObjectTree.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/ObjectTree.php
+END
+IFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/IFile.php
+END

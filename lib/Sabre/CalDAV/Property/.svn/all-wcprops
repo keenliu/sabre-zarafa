@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Property
+END
+SupportedCalendarData.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Property/SupportedCalendarData.php
+END
+SupportedCalendarComponentSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Property/SupportedCalendarComponentSet.php
+END
+SupportedCollationSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Property/SupportedCollationSet.php
+END

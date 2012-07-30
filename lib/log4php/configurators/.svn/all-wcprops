@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/lib/log4php/configurators
+END
+LoggerConfigurationAdapterXML.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/lib/log4php/configurators/LoggerConfigurationAdapterXML.php
+END
+LoggerConfigurationAdapterPHP.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/lib/log4php/configurators/LoggerConfigurationAdapterPHP.php
+END
+LoggerConfiguratorDefault.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31/trunk/lib/log4php/configurators/LoggerConfiguratorDefault.php
+END
+LoggerConfigurationAdapterINI.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/lib/log4php/configurators/LoggerConfigurationAdapterINI.php
+END
+LoggerConfigurationAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/31/trunk/lib/log4php/configurators/LoggerConfigurationAdapter.php
+END

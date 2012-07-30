@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/VObject/Property
+END
+DateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/trunk/lib/Sabre/VObject/Property/DateTime.php
+END
+MultiDateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/trunk/lib/Sabre/VObject/Property/MultiDateTime.php
+END

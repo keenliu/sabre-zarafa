@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP
+END
+AWSAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/AWSAuth.php
+END
+Util.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/Util.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/Response.php
+END
+DigestAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/DigestAuth.php
+END
+BasicAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/BasicAuth.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/Version.php
+END
+AbstractAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/AbstractAuth.php
+END
+includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/includes.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/HTTP/Request.php
+END

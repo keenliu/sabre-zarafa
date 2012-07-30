@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV
+END
+IAddressBook.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/IAddressBook.php
+END
+Card.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/Card.php
+END
+IDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/IDirectory.php
+END
+Plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/Plugin.php
+END
+AddressBook.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/AddressBook.php
+END
+UserAddressBooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/UserAddressBooks.php
+END
+ICard.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/ICard.php
+END
+AddressBookQueryParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/AddressBookQueryParser.php
+END
+AddressBookRoot.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/AddressBookRoot.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/Version.php
+END
+includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/71/trunk/lib/Sabre/CardDAV/includes.php
+END

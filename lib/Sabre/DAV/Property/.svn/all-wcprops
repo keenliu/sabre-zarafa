@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property
+END
+ResourceType.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/ResourceType.php
+END
+ResponseList.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/ResponseList.php
+END
+SupportedReportSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/SupportedReportSet.php
+END
+IHref.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/IHref.php
+END
+SupportedLock.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/SupportedLock.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/Response.php
+END
+LockDiscovery.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/LockDiscovery.php
+END
+HrefList.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/HrefList.php
+END
+Href.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/Href.php
+END
+GetLastModified.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Property/GetLastModified.php
+END

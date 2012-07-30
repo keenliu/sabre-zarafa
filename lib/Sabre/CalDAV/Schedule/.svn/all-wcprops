@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Schedule
+END
+IOutbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Schedule/IOutbox.php
+END
+IMip.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Schedule/IMip.php
+END
+Outbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/trunk/lib/Sabre/CalDAV/Schedule/Outbox.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Auth
+END
+Plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Auth/Plugin.php
+END
+IBackend.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/Auth/IBackend.php
+END

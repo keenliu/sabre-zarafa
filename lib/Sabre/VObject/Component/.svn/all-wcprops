@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/lib/Sabre/VObject/Component
+END
+VTodo.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/trunk/lib/Sabre/VObject/Component/VTodo.php
+END
+VCalendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/lib/Sabre/VObject/Component/VCalendar.php
+END
+VJournal.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/trunk/lib/Sabre/VObject/Component/VJournal.php
+END
+VEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/71/trunk/lib/Sabre/VObject/Component/VEvent.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31/trunk/lib/log4php/appenders
+END
+LoggerAppenderNull.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderNull.php
+END
+LoggerAppenderEcho.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderEcho.php
+END
+LoggerAppenderFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderFile.php
+END
+LoggerAppenderSyslog.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderSyslog.php
+END
+LoggerAppenderMail.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderMail.php
+END
+LoggerAppenderPDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderPDO.php
+END
+LoggerAppenderDailyFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderDailyFile.php
+END
+LoggerAppenderConsole.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderConsole.php
+END
+LoggerAppenderMailEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderMailEvent.php
+END
+LoggerAppenderMongoDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderMongoDB.php
+END
+LoggerAppenderRollingFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderRollingFile.php
+END
+LoggerAppenderPhp.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderPhp.php
+END
+LoggerAppenderSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31/trunk/lib/log4php/appenders/LoggerAppenderSocket.php
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+73
+http://sabre-zarafa.googlecode.com/svn/trunk/lib/Sabre
+http://sabre-zarafa.googlecode.com/svn
+
+
+
+2012-03-19T17:01:58.587519Z
+71
+guillaume.lapierre@iname.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3890b3d5-e656-f623-6fda-3f367d790913
+
+HTTP
+dir
+
+CardDAV
+dir
+
+DAV
+dir
+
+CalDAV
+dir
+
+DAVACL
+dir
+
+VObject
+dir
+
+autoload.php
+file
+
+
+
+
+2012-07-30T13:43:31.437419Z
+f2bf21bee25287dcffb7218913c9628e
+2012-03-19T17:01:58.587519Z
+71
+guillaume.lapierre@iname.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+730
+

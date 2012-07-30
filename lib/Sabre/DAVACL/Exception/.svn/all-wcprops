@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Exception
+END
+AceConflict.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Exception/AceConflict.php
+END
+NotRecognizedPrincipal.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Exception/NotRecognizedPrincipal.php
+END
+NotSupportedPrivilege.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Exception/NotSupportedPrivilege.php
+END
+NoAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Exception/NoAbstract.php
+END
+NeedPrivileges.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Exception/NeedPrivileges.php
+END

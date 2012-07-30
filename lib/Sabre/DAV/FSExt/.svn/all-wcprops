@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/FSExt
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/FSExt/File.php
+END
+Directory.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/FSExt/Directory.php
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/DAV/FSExt/Node.php
+END

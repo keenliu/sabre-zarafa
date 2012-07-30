@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL
+END
+IPrincipal.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/IPrincipal.php
+END
+PrincipalCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/PrincipalCollection.php
+END
+Plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Plugin.php
+END
+AbstractPrincipalCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/AbstractPrincipalCollection.php
+END
+Principal.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Principal.php
+END
+IPrincipalBackend.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/IPrincipalBackend.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/Version.php
+END
+includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/includes.php
+END
+IACL.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/71/trunk/lib/Sabre/DAVACL/IACL.php
+END
