@@ -288,7 +288,7 @@ class VCardParser implements IVCardParser {
 		foreach ($addresses as $address) {
 			$type = strtoupper($address->offsetGet('TYPE')->value);
 			$this->logger->debug("Found address $type");
-
+                        
 			switch ($type) {
 				case 'HOME':
 					$pStreet  = 'home_address_street';
@@ -312,8 +312,8 @@ class VCardParser implements IVCardParser {
 					$pCountry = 'other_address_country';
 					break;
 				default:
-					debug ("Unknwon address type $type - skipping");
-					continue;
+					$this->logger->debug("Unknwon address type $type - skipping");
+					continue(2);
 			}
 			
 			$addressComponents = VCardParser::splitCompundProperty($address->value);
